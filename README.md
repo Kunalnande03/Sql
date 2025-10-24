@@ -1,2 +1,2 @@
 # Sql
-Sql query
+Sql Command
